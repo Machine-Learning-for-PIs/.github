@@ -11,7 +11,10 @@ The course programme includes four course days covering key concepts in machine 
 
 1. Day Mathematical foundations
   - a. [intro-slides](https://github.com/Machine-Learning-for-PIs/01a_slides_intro/blob/main/build/presentation.pdf)
-  - b. slides-software-engineering, [exercise](https://github.com/Machine-Learning-for-PIs/01a_intro_exercise),
+  - b. Supervising machine learning software projects. The software engineering checklist, [exercise](https://github.com/Machine-Learning-for-PIs/01a_intro_exercise),
+  - c. Optimization
+  - d. Linear Algebra
+  - e. Statistics
 
 3. Day Foundations of Machine Learning
 
