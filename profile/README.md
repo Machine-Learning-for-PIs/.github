@@ -4,7 +4,7 @@ This is the course page for the course taught at the University of Bonn.
 The course programme includes four course days covering key concepts in machine learning.
 
 ### Recommended reading:
-- We recommend the [Python-Tutorial](https://docs.python.org/3/tutorial/index.html).
+- We recommend the [Python-Tutorial](https://docs.python.org/3/tutorial/index.html) to get started.
 
 
 ### Course contents
