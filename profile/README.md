@@ -1,6 +1,6 @@
 ## Welcome to the Machine Learning for Principal Investigators course page
 
-This is the course page for the Course taught at the University of Bonn.
+This is the course page for the course taught at the University of Bonn.
 The course programme includes four course days covering key concepts in machine learning.
 
 1. Day Mathematical foundations
