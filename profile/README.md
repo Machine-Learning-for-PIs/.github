@@ -19,6 +19,7 @@ The course programme includes four course days covering key concepts in machine 
 3. Day Foundations of Machine Learning
 
 4. Day Convolutional Neural networks
+   - a. Convolutional Neural Networks, cnn exercise
 
-5. Day Transformers and Large Language Models LLM
+6. Day Transformers and Large Language Models LLM
  
