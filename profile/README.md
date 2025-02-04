@@ -19,7 +19,8 @@ The course programme includes four course days covering key concepts in machine 
 3. Day Foundations of Machine Learning
 
 4. Day Convolutional Neural networks
-   - a. Convolutional Neural Networks, cnn exercise
+   - a. [Convolutional Neural Networks](https://github.com/Machine-Learning-for-PIs/03a_lecture_cnn/blob/main/build/presentation.pdf), [cnn exercise](https://github.com/Machine-Learning-for-PIs/03a_exercise_cnn)
+   - b. Segmentation
 
 6. Day Transformers and Large Language Models LLM
  
