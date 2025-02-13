@@ -22,8 +22,8 @@ The course programme includes four course days covering key concepts in machine 
     - c. [Principal Component Analysis](https://github.com/Machine-Learning-for-PIs/02c_lecture_PCA/blob/main/build/presentation.pdf), [PCA exercise](https://github.com/Machine-Learning-for-PIs/02c_exercises_PCA)
 
 4. Day - Convolutional Neural networks
-   - a. Feed-Forward Networks
-   - b. [Convolutional Neural Networks](https://github.com/Machine-Learning-for-PIs/03b_lecture_cnn/blob/main/build/presentation.pdf), [cnn exercise](https://github.com/Machine-Learning-for-PIs/03b_exercise_cnn)
+   - a. Feed-Forward Networks, [FFN exercise](https://github.com/Machine-Learning-for-PIs/03a_exercises_neural_networks)
+   - b. [Convolutional Neural Networks](https://github.com/Machine-Learning-for-PIs/03b_lecture_cnn/blob/main/build/presentation.pdf), [CNN exercise](https://github.com/Machine-Learning-for-PIs/03b_exercise_cnn)
    - c. Segmentation
 
 6. Day - Transformers and Large Language Models LLM
