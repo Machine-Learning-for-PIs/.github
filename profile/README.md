@@ -17,9 +17,9 @@ The course programme includes four course days covering key concepts in machine 
     - e. [Statistics](https://github.com/Machine-Learning-for-PIs/01e_lecture_stats/blob/master/build/presentation.pdf)
 
 2. Day - Foundations of Machine Learning
-    - a. [Basics](https://github.com/Machine-Learning-for-PIs/02a_lecture_MLbasics/blob/main/build/presentation.pdf)
-    - b. [Support Vector Machines](https://github.com/Machine-Learning-for-PIs/02b_lecture_SVM/blob/main/build/presentation.pdf)
-    - c. [Principal Component Analysis](https://github.com/Machine-Learning-for-PIs/02c_lecture_PCA/blob/main/build/presentation.pdf)
+    - a. [Basics](https://github.com/Machine-Learning-for-PIs/02a_lecture_MLbasics/blob/main/build/presentation.pdf), [ML basics exercise](https://github.com/Machine-Learning-for-PIs/02a_exercises_MLbasics)
+    - b. [Support Vector Machines](https://github.com/Machine-Learning-for-PIs/02b_lecture_SVM/blob/main/build/presentation.pdf), [SVM exercise](https://github.com/Machine-Learning-for-PIs/02b_exercises_SVM)
+    - c. [Principal Component Analysis](https://github.com/Machine-Learning-for-PIs/02c_lecture_PCA/blob/main/build/presentation.pdf), [PCA exercise](https://github.com/Machine-Learning-for-PIs/02c_exercises_PCA)
 
 4. Day - Convolutional Neural networks
    - a. Feed-Forward Networks
