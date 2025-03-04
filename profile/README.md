@@ -28,5 +28,5 @@ The course programme includes four course days covering key concepts in machine 
 
 6. Day - Interpretable machine learning and Large Language Models
    - a. [Interpretable machine learning](https://github.com/Machine-Learning-for-PIs/4a_interpretable_ml_lecture/blob/main/build/presentation.pdf), [interpretable machine learning exercise](https://github.com/Machine-Learning-for-PIs/4a_interpretable_ml_exercise)
-   - b. Sequence processing and language models, [language models exercise](https://github.com/Machine-Learning-for-PIs/4b_language_models_exercise)
+   - b. [Sequence processing and language models](https://github.com/v0lta/lecture_15_sequence_processing/blob/main/build/presentation.pdf), [language models exercise](https://github.com/Machine-Learning-for-PIs/4b_language_models_exercise)
  
