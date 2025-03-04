@@ -26,5 +26,7 @@ The course programme includes four course days covering key concepts in machine 
    - b. [Convolutional Neural Networks](https://github.com/Machine-Learning-for-PIs/03b_lecture_cnn/blob/main/build/presentation.pdf), [CNN exercise](https://github.com/Machine-Learning-for-PIs/03b_exercise_cnn)
    - c. Segmentation, [Segmentation Exercise](https://github.com/Machine-Learning-for-PIs/03c_exercise_segmentation)
 
-6. Day - Transformers and Large Language Models LLM
+6. Day - Interpretable machine learning and Large Language Models
+   - a. Interpretable ML
+   - b. LLMs
  
