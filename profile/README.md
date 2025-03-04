@@ -27,6 +27,6 @@ The course programme includes four course days covering key concepts in machine 
    - c. Segmentation, [Segmentation Exercise](https://github.com/Machine-Learning-for-PIs/03c_exercise_segmentation)
 
 6. Day - Interpretable machine learning and Large Language Models
-   - a. Interpretable ML
+   - a. Interpretable ML, interpretable ml exercise
    - b. LLMs
  
