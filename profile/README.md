@@ -30,3 +30,14 @@ The course programme includes four course days covering key concepts in machine 
    - a. [Interpretable machine learning](https://github.com/Machine-Learning-for-PIs/4a_interpretable_ml_lecture/blob/main/build/presentation.pdf), [interpretable machine learning exercise](https://github.com/Machine-Learning-for-PIs/4a_interpretable_ml_exercise)
    - b. [Sequence processing and language models](https://github.com/v0lta/lecture_15_sequence_processing/blob/main/build/presentation.pdf), [language models exercise](https://github.com/Machine-Learning-for-PIs/4b_language_models_exercise)
  
+
+## Support
+
+We thank the state of North Rhine-Westphalia and the Federal Ministry of Education and Research for supporting this project.
+
+<table>
+<tr>
+    <td><img src="https://github.com/Machine-Learning-Foundations/.github/blob/main/profile/img/nrw-logo.png" height="150"></td>
+    <td><img src="https://github.com/Machine-Learning-Foundations/.github/blob/main/profile/img/BMBF_gefoerdert_2017_en.jpg" height="150"></td>
+</tr>
+</table>
